@@ -1,0 +1,19 @@
+{
+  "contactOwner": "6281248009076",
+  "ownerNumber": ["0@s.whatsapp.net"],
+  "botName": "WhatsappBot",
+  "ownerName": "Kinaa",
+  "pathimg": "./temp/logo.jpg",
+  "footer": "Whatsapp Bot © Kinaa",
+  "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
+  "payment": {
+    "gopay": {
+      "nomer": "no found",
+      "atas_nama": "no found"
+    },
+    "dana": {
+      "nomer": "6281248009076",
+      "atas_nama": "Kinaa"
+    }
+  }
+}
